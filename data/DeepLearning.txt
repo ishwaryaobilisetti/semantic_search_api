@@ -1,0 +1,1 @@
+Deep Learning uses neural networks with multiple layers to analyze complex data such as images, speech, and text. It forms the foundation of modern AI breakthroughs.

@@ -1,0 +1,1 @@
+Software engineering applies engineering principles to design, develop, test, and maintain software systems. It focuses on quality, reliability, and scalability.

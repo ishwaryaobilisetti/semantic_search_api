@@ -1,0 +1,4002 @@
+[
+  {
+    "id": "doc_0",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 0"
+  },
+  {
+    "id": "doc_1",
+    "text": "Artificial intelligence is transforming the world. - Variation 1"
+  },
+  {
+    "id": "doc_2",
+    "text": "Machine learning models require data for training. - Variation 2"
+  },
+  {
+    "id": "doc_3",
+    "text": "Deep learning is a subset of machine learning. - Variation 3"
+  },
+  {
+    "id": "doc_4",
+    "text": "Natural language processing enables computers to understand text. - Variation 4"
+  },
+  {
+    "id": "doc_5",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 5"
+  },
+  {
+    "id": "doc_6",
+    "text": "Reinforcement learning learns from trial and error. - Variation 6"
+  },
+  {
+    "id": "doc_7",
+    "text": "Supervised learning uses labeled datasets. - Variation 7"
+  },
+  {
+    "id": "doc_8",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 8"
+  },
+  {
+    "id": "doc_9",
+    "text": "Python is a popular programming language for data science. - Variation 9"
+  },
+  {
+    "id": "doc_10",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 10"
+  },
+  {
+    "id": "doc_11",
+    "text": "Artificial intelligence is transforming the world. - Variation 11"
+  },
+  {
+    "id": "doc_12",
+    "text": "Machine learning models require data for training. - Variation 12"
+  },
+  {
+    "id": "doc_13",
+    "text": "Deep learning is a subset of machine learning. - Variation 13"
+  },
+  {
+    "id": "doc_14",
+    "text": "Natural language processing enables computers to understand text. - Variation 14"
+  },
+  {
+    "id": "doc_15",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 15"
+  },
+  {
+    "id": "doc_16",
+    "text": "Reinforcement learning learns from trial and error. - Variation 16"
+  },
+  {
+    "id": "doc_17",
+    "text": "Supervised learning uses labeled datasets. - Variation 17"
+  },
+  {
+    "id": "doc_18",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 18"
+  },
+  {
+    "id": "doc_19",
+    "text": "Python is a popular programming language for data science. - Variation 19"
+  },
+  {
+    "id": "doc_20",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 20"
+  },
+  {
+    "id": "doc_21",
+    "text": "Artificial intelligence is transforming the world. - Variation 21"
+  },
+  {
+    "id": "doc_22",
+    "text": "Machine learning models require data for training. - Variation 22"
+  },
+  {
+    "id": "doc_23",
+    "text": "Deep learning is a subset of machine learning. - Variation 23"
+  },
+  {
+    "id": "doc_24",
+    "text": "Natural language processing enables computers to understand text. - Variation 24"
+  },
+  {
+    "id": "doc_25",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 25"
+  },
+  {
+    "id": "doc_26",
+    "text": "Reinforcement learning learns from trial and error. - Variation 26"
+  },
+  {
+    "id": "doc_27",
+    "text": "Supervised learning uses labeled datasets. - Variation 27"
+  },
+  {
+    "id": "doc_28",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 28"
+  },
+  {
+    "id": "doc_29",
+    "text": "Python is a popular programming language for data science. - Variation 29"
+  },
+  {
+    "id": "doc_30",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 30"
+  },
+  {
+    "id": "doc_31",
+    "text": "Artificial intelligence is transforming the world. - Variation 31"
+  },
+  {
+    "id": "doc_32",
+    "text": "Machine learning models require data for training. - Variation 32"
+  },
+  {
+    "id": "doc_33",
+    "text": "Deep learning is a subset of machine learning. - Variation 33"
+  },
+  {
+    "id": "doc_34",
+    "text": "Natural language processing enables computers to understand text. - Variation 34"
+  },
+  {
+    "id": "doc_35",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 35"
+  },
+  {
+    "id": "doc_36",
+    "text": "Reinforcement learning learns from trial and error. - Variation 36"
+  },
+  {
+    "id": "doc_37",
+    "text": "Supervised learning uses labeled datasets. - Variation 37"
+  },
+  {
+    "id": "doc_38",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 38"
+  },
+  {
+    "id": "doc_39",
+    "text": "Python is a popular programming language for data science. - Variation 39"
+  },
+  {
+    "id": "doc_40",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 40"
+  },
+  {
+    "id": "doc_41",
+    "text": "Artificial intelligence is transforming the world. - Variation 41"
+  },
+  {
+    "id": "doc_42",
+    "text": "Machine learning models require data for training. - Variation 42"
+  },
+  {
+    "id": "doc_43",
+    "text": "Deep learning is a subset of machine learning. - Variation 43"
+  },
+  {
+    "id": "doc_44",
+    "text": "Natural language processing enables computers to understand text. - Variation 44"
+  },
+  {
+    "id": "doc_45",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 45"
+  },
+  {
+    "id": "doc_46",
+    "text": "Reinforcement learning learns from trial and error. - Variation 46"
+  },
+  {
+    "id": "doc_47",
+    "text": "Supervised learning uses labeled datasets. - Variation 47"
+  },
+  {
+    "id": "doc_48",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 48"
+  },
+  {
+    "id": "doc_49",
+    "text": "Python is a popular programming language for data science. - Variation 49"
+  },
+  {
+    "id": "doc_50",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 50"
+  },
+  {
+    "id": "doc_51",
+    "text": "Artificial intelligence is transforming the world. - Variation 51"
+  },
+  {
+    "id": "doc_52",
+    "text": "Machine learning models require data for training. - Variation 52"
+  },
+  {
+    "id": "doc_53",
+    "text": "Deep learning is a subset of machine learning. - Variation 53"
+  },
+  {
+    "id": "doc_54",
+    "text": "Natural language processing enables computers to understand text. - Variation 54"
+  },
+  {
+    "id": "doc_55",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 55"
+  },
+  {
+    "id": "doc_56",
+    "text": "Reinforcement learning learns from trial and error. - Variation 56"
+  },
+  {
+    "id": "doc_57",
+    "text": "Supervised learning uses labeled datasets. - Variation 57"
+  },
+  {
+    "id": "doc_58",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 58"
+  },
+  {
+    "id": "doc_59",
+    "text": "Python is a popular programming language for data science. - Variation 59"
+  },
+  {
+    "id": "doc_60",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 60"
+  },
+  {
+    "id": "doc_61",
+    "text": "Artificial intelligence is transforming the world. - Variation 61"
+  },
+  {
+    "id": "doc_62",
+    "text": "Machine learning models require data for training. - Variation 62"
+  },
+  {
+    "id": "doc_63",
+    "text": "Deep learning is a subset of machine learning. - Variation 63"
+  },
+  {
+    "id": "doc_64",
+    "text": "Natural language processing enables computers to understand text. - Variation 64"
+  },
+  {
+    "id": "doc_65",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 65"
+  },
+  {
+    "id": "doc_66",
+    "text": "Reinforcement learning learns from trial and error. - Variation 66"
+  },
+  {
+    "id": "doc_67",
+    "text": "Supervised learning uses labeled datasets. - Variation 67"
+  },
+  {
+    "id": "doc_68",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 68"
+  },
+  {
+    "id": "doc_69",
+    "text": "Python is a popular programming language for data science. - Variation 69"
+  },
+  {
+    "id": "doc_70",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 70"
+  },
+  {
+    "id": "doc_71",
+    "text": "Artificial intelligence is transforming the world. - Variation 71"
+  },
+  {
+    "id": "doc_72",
+    "text": "Machine learning models require data for training. - Variation 72"
+  },
+  {
+    "id": "doc_73",
+    "text": "Deep learning is a subset of machine learning. - Variation 73"
+  },
+  {
+    "id": "doc_74",
+    "text": "Natural language processing enables computers to understand text. - Variation 74"
+  },
+  {
+    "id": "doc_75",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 75"
+  },
+  {
+    "id": "doc_76",
+    "text": "Reinforcement learning learns from trial and error. - Variation 76"
+  },
+  {
+    "id": "doc_77",
+    "text": "Supervised learning uses labeled datasets. - Variation 77"
+  },
+  {
+    "id": "doc_78",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 78"
+  },
+  {
+    "id": "doc_79",
+    "text": "Python is a popular programming language for data science. - Variation 79"
+  },
+  {
+    "id": "doc_80",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 80"
+  },
+  {
+    "id": "doc_81",
+    "text": "Artificial intelligence is transforming the world. - Variation 81"
+  },
+  {
+    "id": "doc_82",
+    "text": "Machine learning models require data for training. - Variation 82"
+  },
+  {
+    "id": "doc_83",
+    "text": "Deep learning is a subset of machine learning. - Variation 83"
+  },
+  {
+    "id": "doc_84",
+    "text": "Natural language processing enables computers to understand text. - Variation 84"
+  },
+  {
+    "id": "doc_85",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 85"
+  },
+  {
+    "id": "doc_86",
+    "text": "Reinforcement learning learns from trial and error. - Variation 86"
+  },
+  {
+    "id": "doc_87",
+    "text": "Supervised learning uses labeled datasets. - Variation 87"
+  },
+  {
+    "id": "doc_88",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 88"
+  },
+  {
+    "id": "doc_89",
+    "text": "Python is a popular programming language for data science. - Variation 89"
+  },
+  {
+    "id": "doc_90",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 90"
+  },
+  {
+    "id": "doc_91",
+    "text": "Artificial intelligence is transforming the world. - Variation 91"
+  },
+  {
+    "id": "doc_92",
+    "text": "Machine learning models require data for training. - Variation 92"
+  },
+  {
+    "id": "doc_93",
+    "text": "Deep learning is a subset of machine learning. - Variation 93"
+  },
+  {
+    "id": "doc_94",
+    "text": "Natural language processing enables computers to understand text. - Variation 94"
+  },
+  {
+    "id": "doc_95",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 95"
+  },
+  {
+    "id": "doc_96",
+    "text": "Reinforcement learning learns from trial and error. - Variation 96"
+  },
+  {
+    "id": "doc_97",
+    "text": "Supervised learning uses labeled datasets. - Variation 97"
+  },
+  {
+    "id": "doc_98",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 98"
+  },
+  {
+    "id": "doc_99",
+    "text": "Python is a popular programming language for data science. - Variation 99"
+  },
+  {
+    "id": "doc_100",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 100"
+  },
+  {
+    "id": "doc_101",
+    "text": "Artificial intelligence is transforming the world. - Variation 101"
+  },
+  {
+    "id": "doc_102",
+    "text": "Machine learning models require data for training. - Variation 102"
+  },
+  {
+    "id": "doc_103",
+    "text": "Deep learning is a subset of machine learning. - Variation 103"
+  },
+  {
+    "id": "doc_104",
+    "text": "Natural language processing enables computers to understand text. - Variation 104"
+  },
+  {
+    "id": "doc_105",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 105"
+  },
+  {
+    "id": "doc_106",
+    "text": "Reinforcement learning learns from trial and error. - Variation 106"
+  },
+  {
+    "id": "doc_107",
+    "text": "Supervised learning uses labeled datasets. - Variation 107"
+  },
+  {
+    "id": "doc_108",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 108"
+  },
+  {
+    "id": "doc_109",
+    "text": "Python is a popular programming language for data science. - Variation 109"
+  },
+  {
+    "id": "doc_110",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 110"
+  },
+  {
+    "id": "doc_111",
+    "text": "Artificial intelligence is transforming the world. - Variation 111"
+  },
+  {
+    "id": "doc_112",
+    "text": "Machine learning models require data for training. - Variation 112"
+  },
+  {
+    "id": "doc_113",
+    "text": "Deep learning is a subset of machine learning. - Variation 113"
+  },
+  {
+    "id": "doc_114",
+    "text": "Natural language processing enables computers to understand text. - Variation 114"
+  },
+  {
+    "id": "doc_115",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 115"
+  },
+  {
+    "id": "doc_116",
+    "text": "Reinforcement learning learns from trial and error. - Variation 116"
+  },
+  {
+    "id": "doc_117",
+    "text": "Supervised learning uses labeled datasets. - Variation 117"
+  },
+  {
+    "id": "doc_118",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 118"
+  },
+  {
+    "id": "doc_119",
+    "text": "Python is a popular programming language for data science. - Variation 119"
+  },
+  {
+    "id": "doc_120",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 120"
+  },
+  {
+    "id": "doc_121",
+    "text": "Artificial intelligence is transforming the world. - Variation 121"
+  },
+  {
+    "id": "doc_122",
+    "text": "Machine learning models require data for training. - Variation 122"
+  },
+  {
+    "id": "doc_123",
+    "text": "Deep learning is a subset of machine learning. - Variation 123"
+  },
+  {
+    "id": "doc_124",
+    "text": "Natural language processing enables computers to understand text. - Variation 124"
+  },
+  {
+    "id": "doc_125",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 125"
+  },
+  {
+    "id": "doc_126",
+    "text": "Reinforcement learning learns from trial and error. - Variation 126"
+  },
+  {
+    "id": "doc_127",
+    "text": "Supervised learning uses labeled datasets. - Variation 127"
+  },
+  {
+    "id": "doc_128",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 128"
+  },
+  {
+    "id": "doc_129",
+    "text": "Python is a popular programming language for data science. - Variation 129"
+  },
+  {
+    "id": "doc_130",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 130"
+  },
+  {
+    "id": "doc_131",
+    "text": "Artificial intelligence is transforming the world. - Variation 131"
+  },
+  {
+    "id": "doc_132",
+    "text": "Machine learning models require data for training. - Variation 132"
+  },
+  {
+    "id": "doc_133",
+    "text": "Deep learning is a subset of machine learning. - Variation 133"
+  },
+  {
+    "id": "doc_134",
+    "text": "Natural language processing enables computers to understand text. - Variation 134"
+  },
+  {
+    "id": "doc_135",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 135"
+  },
+  {
+    "id": "doc_136",
+    "text": "Reinforcement learning learns from trial and error. - Variation 136"
+  },
+  {
+    "id": "doc_137",
+    "text": "Supervised learning uses labeled datasets. - Variation 137"
+  },
+  {
+    "id": "doc_138",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 138"
+  },
+  {
+    "id": "doc_139",
+    "text": "Python is a popular programming language for data science. - Variation 139"
+  },
+  {
+    "id": "doc_140",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 140"
+  },
+  {
+    "id": "doc_141",
+    "text": "Artificial intelligence is transforming the world. - Variation 141"
+  },
+  {
+    "id": "doc_142",
+    "text": "Machine learning models require data for training. - Variation 142"
+  },
+  {
+    "id": "doc_143",
+    "text": "Deep learning is a subset of machine learning. - Variation 143"
+  },
+  {
+    "id": "doc_144",
+    "text": "Natural language processing enables computers to understand text. - Variation 144"
+  },
+  {
+    "id": "doc_145",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 145"
+  },
+  {
+    "id": "doc_146",
+    "text": "Reinforcement learning learns from trial and error. - Variation 146"
+  },
+  {
+    "id": "doc_147",
+    "text": "Supervised learning uses labeled datasets. - Variation 147"
+  },
+  {
+    "id": "doc_148",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 148"
+  },
+  {
+    "id": "doc_149",
+    "text": "Python is a popular programming language for data science. - Variation 149"
+  },
+  {
+    "id": "doc_150",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 150"
+  },
+  {
+    "id": "doc_151",
+    "text": "Artificial intelligence is transforming the world. - Variation 151"
+  },
+  {
+    "id": "doc_152",
+    "text": "Machine learning models require data for training. - Variation 152"
+  },
+  {
+    "id": "doc_153",
+    "text": "Deep learning is a subset of machine learning. - Variation 153"
+  },
+  {
+    "id": "doc_154",
+    "text": "Natural language processing enables computers to understand text. - Variation 154"
+  },
+  {
+    "id": "doc_155",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 155"
+  },
+  {
+    "id": "doc_156",
+    "text": "Reinforcement learning learns from trial and error. - Variation 156"
+  },
+  {
+    "id": "doc_157",
+    "text": "Supervised learning uses labeled datasets. - Variation 157"
+  },
+  {
+    "id": "doc_158",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 158"
+  },
+  {
+    "id": "doc_159",
+    "text": "Python is a popular programming language for data science. - Variation 159"
+  },
+  {
+    "id": "doc_160",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 160"
+  },
+  {
+    "id": "doc_161",
+    "text": "Artificial intelligence is transforming the world. - Variation 161"
+  },
+  {
+    "id": "doc_162",
+    "text": "Machine learning models require data for training. - Variation 162"
+  },
+  {
+    "id": "doc_163",
+    "text": "Deep learning is a subset of machine learning. - Variation 163"
+  },
+  {
+    "id": "doc_164",
+    "text": "Natural language processing enables computers to understand text. - Variation 164"
+  },
+  {
+    "id": "doc_165",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 165"
+  },
+  {
+    "id": "doc_166",
+    "text": "Reinforcement learning learns from trial and error. - Variation 166"
+  },
+  {
+    "id": "doc_167",
+    "text": "Supervised learning uses labeled datasets. - Variation 167"
+  },
+  {
+    "id": "doc_168",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 168"
+  },
+  {
+    "id": "doc_169",
+    "text": "Python is a popular programming language for data science. - Variation 169"
+  },
+  {
+    "id": "doc_170",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 170"
+  },
+  {
+    "id": "doc_171",
+    "text": "Artificial intelligence is transforming the world. - Variation 171"
+  },
+  {
+    "id": "doc_172",
+    "text": "Machine learning models require data for training. - Variation 172"
+  },
+  {
+    "id": "doc_173",
+    "text": "Deep learning is a subset of machine learning. - Variation 173"
+  },
+  {
+    "id": "doc_174",
+    "text": "Natural language processing enables computers to understand text. - Variation 174"
+  },
+  {
+    "id": "doc_175",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 175"
+  },
+  {
+    "id": "doc_176",
+    "text": "Reinforcement learning learns from trial and error. - Variation 176"
+  },
+  {
+    "id": "doc_177",
+    "text": "Supervised learning uses labeled datasets. - Variation 177"
+  },
+  {
+    "id": "doc_178",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 178"
+  },
+  {
+    "id": "doc_179",
+    "text": "Python is a popular programming language for data science. - Variation 179"
+  },
+  {
+    "id": "doc_180",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 180"
+  },
+  {
+    "id": "doc_181",
+    "text": "Artificial intelligence is transforming the world. - Variation 181"
+  },
+  {
+    "id": "doc_182",
+    "text": "Machine learning models require data for training. - Variation 182"
+  },
+  {
+    "id": "doc_183",
+    "text": "Deep learning is a subset of machine learning. - Variation 183"
+  },
+  {
+    "id": "doc_184",
+    "text": "Natural language processing enables computers to understand text. - Variation 184"
+  },
+  {
+    "id": "doc_185",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 185"
+  },
+  {
+    "id": "doc_186",
+    "text": "Reinforcement learning learns from trial and error. - Variation 186"
+  },
+  {
+    "id": "doc_187",
+    "text": "Supervised learning uses labeled datasets. - Variation 187"
+  },
+  {
+    "id": "doc_188",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 188"
+  },
+  {
+    "id": "doc_189",
+    "text": "Python is a popular programming language for data science. - Variation 189"
+  },
+  {
+    "id": "doc_190",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 190"
+  },
+  {
+    "id": "doc_191",
+    "text": "Artificial intelligence is transforming the world. - Variation 191"
+  },
+  {
+    "id": "doc_192",
+    "text": "Machine learning models require data for training. - Variation 192"
+  },
+  {
+    "id": "doc_193",
+    "text": "Deep learning is a subset of machine learning. - Variation 193"
+  },
+  {
+    "id": "doc_194",
+    "text": "Natural language processing enables computers to understand text. - Variation 194"
+  },
+  {
+    "id": "doc_195",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 195"
+  },
+  {
+    "id": "doc_196",
+    "text": "Reinforcement learning learns from trial and error. - Variation 196"
+  },
+  {
+    "id": "doc_197",
+    "text": "Supervised learning uses labeled datasets. - Variation 197"
+  },
+  {
+    "id": "doc_198",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 198"
+  },
+  {
+    "id": "doc_199",
+    "text": "Python is a popular programming language for data science. - Variation 199"
+  },
+  {
+    "id": "doc_200",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 200"
+  },
+  {
+    "id": "doc_201",
+    "text": "Artificial intelligence is transforming the world. - Variation 201"
+  },
+  {
+    "id": "doc_202",
+    "text": "Machine learning models require data for training. - Variation 202"
+  },
+  {
+    "id": "doc_203",
+    "text": "Deep learning is a subset of machine learning. - Variation 203"
+  },
+  {
+    "id": "doc_204",
+    "text": "Natural language processing enables computers to understand text. - Variation 204"
+  },
+  {
+    "id": "doc_205",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 205"
+  },
+  {
+    "id": "doc_206",
+    "text": "Reinforcement learning learns from trial and error. - Variation 206"
+  },
+  {
+    "id": "doc_207",
+    "text": "Supervised learning uses labeled datasets. - Variation 207"
+  },
+  {
+    "id": "doc_208",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 208"
+  },
+  {
+    "id": "doc_209",
+    "text": "Python is a popular programming language for data science. - Variation 209"
+  },
+  {
+    "id": "doc_210",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 210"
+  },
+  {
+    "id": "doc_211",
+    "text": "Artificial intelligence is transforming the world. - Variation 211"
+  },
+  {
+    "id": "doc_212",
+    "text": "Machine learning models require data for training. - Variation 212"
+  },
+  {
+    "id": "doc_213",
+    "text": "Deep learning is a subset of machine learning. - Variation 213"
+  },
+  {
+    "id": "doc_214",
+    "text": "Natural language processing enables computers to understand text. - Variation 214"
+  },
+  {
+    "id": "doc_215",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 215"
+  },
+  {
+    "id": "doc_216",
+    "text": "Reinforcement learning learns from trial and error. - Variation 216"
+  },
+  {
+    "id": "doc_217",
+    "text": "Supervised learning uses labeled datasets. - Variation 217"
+  },
+  {
+    "id": "doc_218",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 218"
+  },
+  {
+    "id": "doc_219",
+    "text": "Python is a popular programming language for data science. - Variation 219"
+  },
+  {
+    "id": "doc_220",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 220"
+  },
+  {
+    "id": "doc_221",
+    "text": "Artificial intelligence is transforming the world. - Variation 221"
+  },
+  {
+    "id": "doc_222",
+    "text": "Machine learning models require data for training. - Variation 222"
+  },
+  {
+    "id": "doc_223",
+    "text": "Deep learning is a subset of machine learning. - Variation 223"
+  },
+  {
+    "id": "doc_224",
+    "text": "Natural language processing enables computers to understand text. - Variation 224"
+  },
+  {
+    "id": "doc_225",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 225"
+  },
+  {
+    "id": "doc_226",
+    "text": "Reinforcement learning learns from trial and error. - Variation 226"
+  },
+  {
+    "id": "doc_227",
+    "text": "Supervised learning uses labeled datasets. - Variation 227"
+  },
+  {
+    "id": "doc_228",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 228"
+  },
+  {
+    "id": "doc_229",
+    "text": "Python is a popular programming language for data science. - Variation 229"
+  },
+  {
+    "id": "doc_230",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 230"
+  },
+  {
+    "id": "doc_231",
+    "text": "Artificial intelligence is transforming the world. - Variation 231"
+  },
+  {
+    "id": "doc_232",
+    "text": "Machine learning models require data for training. - Variation 232"
+  },
+  {
+    "id": "doc_233",
+    "text": "Deep learning is a subset of machine learning. - Variation 233"
+  },
+  {
+    "id": "doc_234",
+    "text": "Natural language processing enables computers to understand text. - Variation 234"
+  },
+  {
+    "id": "doc_235",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 235"
+  },
+  {
+    "id": "doc_236",
+    "text": "Reinforcement learning learns from trial and error. - Variation 236"
+  },
+  {
+    "id": "doc_237",
+    "text": "Supervised learning uses labeled datasets. - Variation 237"
+  },
+  {
+    "id": "doc_238",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 238"
+  },
+  {
+    "id": "doc_239",
+    "text": "Python is a popular programming language for data science. - Variation 239"
+  },
+  {
+    "id": "doc_240",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 240"
+  },
+  {
+    "id": "doc_241",
+    "text": "Artificial intelligence is transforming the world. - Variation 241"
+  },
+  {
+    "id": "doc_242",
+    "text": "Machine learning models require data for training. - Variation 242"
+  },
+  {
+    "id": "doc_243",
+    "text": "Deep learning is a subset of machine learning. - Variation 243"
+  },
+  {
+    "id": "doc_244",
+    "text": "Natural language processing enables computers to understand text. - Variation 244"
+  },
+  {
+    "id": "doc_245",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 245"
+  },
+  {
+    "id": "doc_246",
+    "text": "Reinforcement learning learns from trial and error. - Variation 246"
+  },
+  {
+    "id": "doc_247",
+    "text": "Supervised learning uses labeled datasets. - Variation 247"
+  },
+  {
+    "id": "doc_248",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 248"
+  },
+  {
+    "id": "doc_249",
+    "text": "Python is a popular programming language for data science. - Variation 249"
+  },
+  {
+    "id": "doc_250",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 250"
+  },
+  {
+    "id": "doc_251",
+    "text": "Artificial intelligence is transforming the world. - Variation 251"
+  },
+  {
+    "id": "doc_252",
+    "text": "Machine learning models require data for training. - Variation 252"
+  },
+  {
+    "id": "doc_253",
+    "text": "Deep learning is a subset of machine learning. - Variation 253"
+  },
+  {
+    "id": "doc_254",
+    "text": "Natural language processing enables computers to understand text. - Variation 254"
+  },
+  {
+    "id": "doc_255",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 255"
+  },
+  {
+    "id": "doc_256",
+    "text": "Reinforcement learning learns from trial and error. - Variation 256"
+  },
+  {
+    "id": "doc_257",
+    "text": "Supervised learning uses labeled datasets. - Variation 257"
+  },
+  {
+    "id": "doc_258",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 258"
+  },
+  {
+    "id": "doc_259",
+    "text": "Python is a popular programming language for data science. - Variation 259"
+  },
+  {
+    "id": "doc_260",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 260"
+  },
+  {
+    "id": "doc_261",
+    "text": "Artificial intelligence is transforming the world. - Variation 261"
+  },
+  {
+    "id": "doc_262",
+    "text": "Machine learning models require data for training. - Variation 262"
+  },
+  {
+    "id": "doc_263",
+    "text": "Deep learning is a subset of machine learning. - Variation 263"
+  },
+  {
+    "id": "doc_264",
+    "text": "Natural language processing enables computers to understand text. - Variation 264"
+  },
+  {
+    "id": "doc_265",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 265"
+  },
+  {
+    "id": "doc_266",
+    "text": "Reinforcement learning learns from trial and error. - Variation 266"
+  },
+  {
+    "id": "doc_267",
+    "text": "Supervised learning uses labeled datasets. - Variation 267"
+  },
+  {
+    "id": "doc_268",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 268"
+  },
+  {
+    "id": "doc_269",
+    "text": "Python is a popular programming language for data science. - Variation 269"
+  },
+  {
+    "id": "doc_270",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 270"
+  },
+  {
+    "id": "doc_271",
+    "text": "Artificial intelligence is transforming the world. - Variation 271"
+  },
+  {
+    "id": "doc_272",
+    "text": "Machine learning models require data for training. - Variation 272"
+  },
+  {
+    "id": "doc_273",
+    "text": "Deep learning is a subset of machine learning. - Variation 273"
+  },
+  {
+    "id": "doc_274",
+    "text": "Natural language processing enables computers to understand text. - Variation 274"
+  },
+  {
+    "id": "doc_275",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 275"
+  },
+  {
+    "id": "doc_276",
+    "text": "Reinforcement learning learns from trial and error. - Variation 276"
+  },
+  {
+    "id": "doc_277",
+    "text": "Supervised learning uses labeled datasets. - Variation 277"
+  },
+  {
+    "id": "doc_278",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 278"
+  },
+  {
+    "id": "doc_279",
+    "text": "Python is a popular programming language for data science. - Variation 279"
+  },
+  {
+    "id": "doc_280",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 280"
+  },
+  {
+    "id": "doc_281",
+    "text": "Artificial intelligence is transforming the world. - Variation 281"
+  },
+  {
+    "id": "doc_282",
+    "text": "Machine learning models require data for training. - Variation 282"
+  },
+  {
+    "id": "doc_283",
+    "text": "Deep learning is a subset of machine learning. - Variation 283"
+  },
+  {
+    "id": "doc_284",
+    "text": "Natural language processing enables computers to understand text. - Variation 284"
+  },
+  {
+    "id": "doc_285",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 285"
+  },
+  {
+    "id": "doc_286",
+    "text": "Reinforcement learning learns from trial and error. - Variation 286"
+  },
+  {
+    "id": "doc_287",
+    "text": "Supervised learning uses labeled datasets. - Variation 287"
+  },
+  {
+    "id": "doc_288",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 288"
+  },
+  {
+    "id": "doc_289",
+    "text": "Python is a popular programming language for data science. - Variation 289"
+  },
+  {
+    "id": "doc_290",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 290"
+  },
+  {
+    "id": "doc_291",
+    "text": "Artificial intelligence is transforming the world. - Variation 291"
+  },
+  {
+    "id": "doc_292",
+    "text": "Machine learning models require data for training. - Variation 292"
+  },
+  {
+    "id": "doc_293",
+    "text": "Deep learning is a subset of machine learning. - Variation 293"
+  },
+  {
+    "id": "doc_294",
+    "text": "Natural language processing enables computers to understand text. - Variation 294"
+  },
+  {
+    "id": "doc_295",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 295"
+  },
+  {
+    "id": "doc_296",
+    "text": "Reinforcement learning learns from trial and error. - Variation 296"
+  },
+  {
+    "id": "doc_297",
+    "text": "Supervised learning uses labeled datasets. - Variation 297"
+  },
+  {
+    "id": "doc_298",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 298"
+  },
+  {
+    "id": "doc_299",
+    "text": "Python is a popular programming language for data science. - Variation 299"
+  },
+  {
+    "id": "doc_300",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 300"
+  },
+  {
+    "id": "doc_301",
+    "text": "Artificial intelligence is transforming the world. - Variation 301"
+  },
+  {
+    "id": "doc_302",
+    "text": "Machine learning models require data for training. - Variation 302"
+  },
+  {
+    "id": "doc_303",
+    "text": "Deep learning is a subset of machine learning. - Variation 303"
+  },
+  {
+    "id": "doc_304",
+    "text": "Natural language processing enables computers to understand text. - Variation 304"
+  },
+  {
+    "id": "doc_305",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 305"
+  },
+  {
+    "id": "doc_306",
+    "text": "Reinforcement learning learns from trial and error. - Variation 306"
+  },
+  {
+    "id": "doc_307",
+    "text": "Supervised learning uses labeled datasets. - Variation 307"
+  },
+  {
+    "id": "doc_308",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 308"
+  },
+  {
+    "id": "doc_309",
+    "text": "Python is a popular programming language for data science. - Variation 309"
+  },
+  {
+    "id": "doc_310",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 310"
+  },
+  {
+    "id": "doc_311",
+    "text": "Artificial intelligence is transforming the world. - Variation 311"
+  },
+  {
+    "id": "doc_312",
+    "text": "Machine learning models require data for training. - Variation 312"
+  },
+  {
+    "id": "doc_313",
+    "text": "Deep learning is a subset of machine learning. - Variation 313"
+  },
+  {
+    "id": "doc_314",
+    "text": "Natural language processing enables computers to understand text. - Variation 314"
+  },
+  {
+    "id": "doc_315",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 315"
+  },
+  {
+    "id": "doc_316",
+    "text": "Reinforcement learning learns from trial and error. - Variation 316"
+  },
+  {
+    "id": "doc_317",
+    "text": "Supervised learning uses labeled datasets. - Variation 317"
+  },
+  {
+    "id": "doc_318",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 318"
+  },
+  {
+    "id": "doc_319",
+    "text": "Python is a popular programming language for data science. - Variation 319"
+  },
+  {
+    "id": "doc_320",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 320"
+  },
+  {
+    "id": "doc_321",
+    "text": "Artificial intelligence is transforming the world. - Variation 321"
+  },
+  {
+    "id": "doc_322",
+    "text": "Machine learning models require data for training. - Variation 322"
+  },
+  {
+    "id": "doc_323",
+    "text": "Deep learning is a subset of machine learning. - Variation 323"
+  },
+  {
+    "id": "doc_324",
+    "text": "Natural language processing enables computers to understand text. - Variation 324"
+  },
+  {
+    "id": "doc_325",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 325"
+  },
+  {
+    "id": "doc_326",
+    "text": "Reinforcement learning learns from trial and error. - Variation 326"
+  },
+  {
+    "id": "doc_327",
+    "text": "Supervised learning uses labeled datasets. - Variation 327"
+  },
+  {
+    "id": "doc_328",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 328"
+  },
+  {
+    "id": "doc_329",
+    "text": "Python is a popular programming language for data science. - Variation 329"
+  },
+  {
+    "id": "doc_330",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 330"
+  },
+  {
+    "id": "doc_331",
+    "text": "Artificial intelligence is transforming the world. - Variation 331"
+  },
+  {
+    "id": "doc_332",
+    "text": "Machine learning models require data for training. - Variation 332"
+  },
+  {
+    "id": "doc_333",
+    "text": "Deep learning is a subset of machine learning. - Variation 333"
+  },
+  {
+    "id": "doc_334",
+    "text": "Natural language processing enables computers to understand text. - Variation 334"
+  },
+  {
+    "id": "doc_335",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 335"
+  },
+  {
+    "id": "doc_336",
+    "text": "Reinforcement learning learns from trial and error. - Variation 336"
+  },
+  {
+    "id": "doc_337",
+    "text": "Supervised learning uses labeled datasets. - Variation 337"
+  },
+  {
+    "id": "doc_338",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 338"
+  },
+  {
+    "id": "doc_339",
+    "text": "Python is a popular programming language for data science. - Variation 339"
+  },
+  {
+    "id": "doc_340",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 340"
+  },
+  {
+    "id": "doc_341",
+    "text": "Artificial intelligence is transforming the world. - Variation 341"
+  },
+  {
+    "id": "doc_342",
+    "text": "Machine learning models require data for training. - Variation 342"
+  },
+  {
+    "id": "doc_343",
+    "text": "Deep learning is a subset of machine learning. - Variation 343"
+  },
+  {
+    "id": "doc_344",
+    "text": "Natural language processing enables computers to understand text. - Variation 344"
+  },
+  {
+    "id": "doc_345",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 345"
+  },
+  {
+    "id": "doc_346",
+    "text": "Reinforcement learning learns from trial and error. - Variation 346"
+  },
+  {
+    "id": "doc_347",
+    "text": "Supervised learning uses labeled datasets. - Variation 347"
+  },
+  {
+    "id": "doc_348",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 348"
+  },
+  {
+    "id": "doc_349",
+    "text": "Python is a popular programming language for data science. - Variation 349"
+  },
+  {
+    "id": "doc_350",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 350"
+  },
+  {
+    "id": "doc_351",
+    "text": "Artificial intelligence is transforming the world. - Variation 351"
+  },
+  {
+    "id": "doc_352",
+    "text": "Machine learning models require data for training. - Variation 352"
+  },
+  {
+    "id": "doc_353",
+    "text": "Deep learning is a subset of machine learning. - Variation 353"
+  },
+  {
+    "id": "doc_354",
+    "text": "Natural language processing enables computers to understand text. - Variation 354"
+  },
+  {
+    "id": "doc_355",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 355"
+  },
+  {
+    "id": "doc_356",
+    "text": "Reinforcement learning learns from trial and error. - Variation 356"
+  },
+  {
+    "id": "doc_357",
+    "text": "Supervised learning uses labeled datasets. - Variation 357"
+  },
+  {
+    "id": "doc_358",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 358"
+  },
+  {
+    "id": "doc_359",
+    "text": "Python is a popular programming language for data science. - Variation 359"
+  },
+  {
+    "id": "doc_360",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 360"
+  },
+  {
+    "id": "doc_361",
+    "text": "Artificial intelligence is transforming the world. - Variation 361"
+  },
+  {
+    "id": "doc_362",
+    "text": "Machine learning models require data for training. - Variation 362"
+  },
+  {
+    "id": "doc_363",
+    "text": "Deep learning is a subset of machine learning. - Variation 363"
+  },
+  {
+    "id": "doc_364",
+    "text": "Natural language processing enables computers to understand text. - Variation 364"
+  },
+  {
+    "id": "doc_365",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 365"
+  },
+  {
+    "id": "doc_366",
+    "text": "Reinforcement learning learns from trial and error. - Variation 366"
+  },
+  {
+    "id": "doc_367",
+    "text": "Supervised learning uses labeled datasets. - Variation 367"
+  },
+  {
+    "id": "doc_368",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 368"
+  },
+  {
+    "id": "doc_369",
+    "text": "Python is a popular programming language for data science. - Variation 369"
+  },
+  {
+    "id": "doc_370",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 370"
+  },
+  {
+    "id": "doc_371",
+    "text": "Artificial intelligence is transforming the world. - Variation 371"
+  },
+  {
+    "id": "doc_372",
+    "text": "Machine learning models require data for training. - Variation 372"
+  },
+  {
+    "id": "doc_373",
+    "text": "Deep learning is a subset of machine learning. - Variation 373"
+  },
+  {
+    "id": "doc_374",
+    "text": "Natural language processing enables computers to understand text. - Variation 374"
+  },
+  {
+    "id": "doc_375",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 375"
+  },
+  {
+    "id": "doc_376",
+    "text": "Reinforcement learning learns from trial and error. - Variation 376"
+  },
+  {
+    "id": "doc_377",
+    "text": "Supervised learning uses labeled datasets. - Variation 377"
+  },
+  {
+    "id": "doc_378",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 378"
+  },
+  {
+    "id": "doc_379",
+    "text": "Python is a popular programming language for data science. - Variation 379"
+  },
+  {
+    "id": "doc_380",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 380"
+  },
+  {
+    "id": "doc_381",
+    "text": "Artificial intelligence is transforming the world. - Variation 381"
+  },
+  {
+    "id": "doc_382",
+    "text": "Machine learning models require data for training. - Variation 382"
+  },
+  {
+    "id": "doc_383",
+    "text": "Deep learning is a subset of machine learning. - Variation 383"
+  },
+  {
+    "id": "doc_384",
+    "text": "Natural language processing enables computers to understand text. - Variation 384"
+  },
+  {
+    "id": "doc_385",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 385"
+  },
+  {
+    "id": "doc_386",
+    "text": "Reinforcement learning learns from trial and error. - Variation 386"
+  },
+  {
+    "id": "doc_387",
+    "text": "Supervised learning uses labeled datasets. - Variation 387"
+  },
+  {
+    "id": "doc_388",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 388"
+  },
+  {
+    "id": "doc_389",
+    "text": "Python is a popular programming language for data science. - Variation 389"
+  },
+  {
+    "id": "doc_390",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 390"
+  },
+  {
+    "id": "doc_391",
+    "text": "Artificial intelligence is transforming the world. - Variation 391"
+  },
+  {
+    "id": "doc_392",
+    "text": "Machine learning models require data for training. - Variation 392"
+  },
+  {
+    "id": "doc_393",
+    "text": "Deep learning is a subset of machine learning. - Variation 393"
+  },
+  {
+    "id": "doc_394",
+    "text": "Natural language processing enables computers to understand text. - Variation 394"
+  },
+  {
+    "id": "doc_395",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 395"
+  },
+  {
+    "id": "doc_396",
+    "text": "Reinforcement learning learns from trial and error. - Variation 396"
+  },
+  {
+    "id": "doc_397",
+    "text": "Supervised learning uses labeled datasets. - Variation 397"
+  },
+  {
+    "id": "doc_398",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 398"
+  },
+  {
+    "id": "doc_399",
+    "text": "Python is a popular programming language for data science. - Variation 399"
+  },
+  {
+    "id": "doc_400",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 400"
+  },
+  {
+    "id": "doc_401",
+    "text": "Artificial intelligence is transforming the world. - Variation 401"
+  },
+  {
+    "id": "doc_402",
+    "text": "Machine learning models require data for training. - Variation 402"
+  },
+  {
+    "id": "doc_403",
+    "text": "Deep learning is a subset of machine learning. - Variation 403"
+  },
+  {
+    "id": "doc_404",
+    "text": "Natural language processing enables computers to understand text. - Variation 404"
+  },
+  {
+    "id": "doc_405",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 405"
+  },
+  {
+    "id": "doc_406",
+    "text": "Reinforcement learning learns from trial and error. - Variation 406"
+  },
+  {
+    "id": "doc_407",
+    "text": "Supervised learning uses labeled datasets. - Variation 407"
+  },
+  {
+    "id": "doc_408",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 408"
+  },
+  {
+    "id": "doc_409",
+    "text": "Python is a popular programming language for data science. - Variation 409"
+  },
+  {
+    "id": "doc_410",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 410"
+  },
+  {
+    "id": "doc_411",
+    "text": "Artificial intelligence is transforming the world. - Variation 411"
+  },
+  {
+    "id": "doc_412",
+    "text": "Machine learning models require data for training. - Variation 412"
+  },
+  {
+    "id": "doc_413",
+    "text": "Deep learning is a subset of machine learning. - Variation 413"
+  },
+  {
+    "id": "doc_414",
+    "text": "Natural language processing enables computers to understand text. - Variation 414"
+  },
+  {
+    "id": "doc_415",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 415"
+  },
+  {
+    "id": "doc_416",
+    "text": "Reinforcement learning learns from trial and error. - Variation 416"
+  },
+  {
+    "id": "doc_417",
+    "text": "Supervised learning uses labeled datasets. - Variation 417"
+  },
+  {
+    "id": "doc_418",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 418"
+  },
+  {
+    "id": "doc_419",
+    "text": "Python is a popular programming language for data science. - Variation 419"
+  },
+  {
+    "id": "doc_420",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 420"
+  },
+  {
+    "id": "doc_421",
+    "text": "Artificial intelligence is transforming the world. - Variation 421"
+  },
+  {
+    "id": "doc_422",
+    "text": "Machine learning models require data for training. - Variation 422"
+  },
+  {
+    "id": "doc_423",
+    "text": "Deep learning is a subset of machine learning. - Variation 423"
+  },
+  {
+    "id": "doc_424",
+    "text": "Natural language processing enables computers to understand text. - Variation 424"
+  },
+  {
+    "id": "doc_425",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 425"
+  },
+  {
+    "id": "doc_426",
+    "text": "Reinforcement learning learns from trial and error. - Variation 426"
+  },
+  {
+    "id": "doc_427",
+    "text": "Supervised learning uses labeled datasets. - Variation 427"
+  },
+  {
+    "id": "doc_428",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 428"
+  },
+  {
+    "id": "doc_429",
+    "text": "Python is a popular programming language for data science. - Variation 429"
+  },
+  {
+    "id": "doc_430",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 430"
+  },
+  {
+    "id": "doc_431",
+    "text": "Artificial intelligence is transforming the world. - Variation 431"
+  },
+  {
+    "id": "doc_432",
+    "text": "Machine learning models require data for training. - Variation 432"
+  },
+  {
+    "id": "doc_433",
+    "text": "Deep learning is a subset of machine learning. - Variation 433"
+  },
+  {
+    "id": "doc_434",
+    "text": "Natural language processing enables computers to understand text. - Variation 434"
+  },
+  {
+    "id": "doc_435",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 435"
+  },
+  {
+    "id": "doc_436",
+    "text": "Reinforcement learning learns from trial and error. - Variation 436"
+  },
+  {
+    "id": "doc_437",
+    "text": "Supervised learning uses labeled datasets. - Variation 437"
+  },
+  {
+    "id": "doc_438",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 438"
+  },
+  {
+    "id": "doc_439",
+    "text": "Python is a popular programming language for data science. - Variation 439"
+  },
+  {
+    "id": "doc_440",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 440"
+  },
+  {
+    "id": "doc_441",
+    "text": "Artificial intelligence is transforming the world. - Variation 441"
+  },
+  {
+    "id": "doc_442",
+    "text": "Machine learning models require data for training. - Variation 442"
+  },
+  {
+    "id": "doc_443",
+    "text": "Deep learning is a subset of machine learning. - Variation 443"
+  },
+  {
+    "id": "doc_444",
+    "text": "Natural language processing enables computers to understand text. - Variation 444"
+  },
+  {
+    "id": "doc_445",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 445"
+  },
+  {
+    "id": "doc_446",
+    "text": "Reinforcement learning learns from trial and error. - Variation 446"
+  },
+  {
+    "id": "doc_447",
+    "text": "Supervised learning uses labeled datasets. - Variation 447"
+  },
+  {
+    "id": "doc_448",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 448"
+  },
+  {
+    "id": "doc_449",
+    "text": "Python is a popular programming language for data science. - Variation 449"
+  },
+  {
+    "id": "doc_450",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 450"
+  },
+  {
+    "id": "doc_451",
+    "text": "Artificial intelligence is transforming the world. - Variation 451"
+  },
+  {
+    "id": "doc_452",
+    "text": "Machine learning models require data for training. - Variation 452"
+  },
+  {
+    "id": "doc_453",
+    "text": "Deep learning is a subset of machine learning. - Variation 453"
+  },
+  {
+    "id": "doc_454",
+    "text": "Natural language processing enables computers to understand text. - Variation 454"
+  },
+  {
+    "id": "doc_455",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 455"
+  },
+  {
+    "id": "doc_456",
+    "text": "Reinforcement learning learns from trial and error. - Variation 456"
+  },
+  {
+    "id": "doc_457",
+    "text": "Supervised learning uses labeled datasets. - Variation 457"
+  },
+  {
+    "id": "doc_458",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 458"
+  },
+  {
+    "id": "doc_459",
+    "text": "Python is a popular programming language for data science. - Variation 459"
+  },
+  {
+    "id": "doc_460",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 460"
+  },
+  {
+    "id": "doc_461",
+    "text": "Artificial intelligence is transforming the world. - Variation 461"
+  },
+  {
+    "id": "doc_462",
+    "text": "Machine learning models require data for training. - Variation 462"
+  },
+  {
+    "id": "doc_463",
+    "text": "Deep learning is a subset of machine learning. - Variation 463"
+  },
+  {
+    "id": "doc_464",
+    "text": "Natural language processing enables computers to understand text. - Variation 464"
+  },
+  {
+    "id": "doc_465",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 465"
+  },
+  {
+    "id": "doc_466",
+    "text": "Reinforcement learning learns from trial and error. - Variation 466"
+  },
+  {
+    "id": "doc_467",
+    "text": "Supervised learning uses labeled datasets. - Variation 467"
+  },
+  {
+    "id": "doc_468",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 468"
+  },
+  {
+    "id": "doc_469",
+    "text": "Python is a popular programming language for data science. - Variation 469"
+  },
+  {
+    "id": "doc_470",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 470"
+  },
+  {
+    "id": "doc_471",
+    "text": "Artificial intelligence is transforming the world. - Variation 471"
+  },
+  {
+    "id": "doc_472",
+    "text": "Machine learning models require data for training. - Variation 472"
+  },
+  {
+    "id": "doc_473",
+    "text": "Deep learning is a subset of machine learning. - Variation 473"
+  },
+  {
+    "id": "doc_474",
+    "text": "Natural language processing enables computers to understand text. - Variation 474"
+  },
+  {
+    "id": "doc_475",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 475"
+  },
+  {
+    "id": "doc_476",
+    "text": "Reinforcement learning learns from trial and error. - Variation 476"
+  },
+  {
+    "id": "doc_477",
+    "text": "Supervised learning uses labeled datasets. - Variation 477"
+  },
+  {
+    "id": "doc_478",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 478"
+  },
+  {
+    "id": "doc_479",
+    "text": "Python is a popular programming language for data science. - Variation 479"
+  },
+  {
+    "id": "doc_480",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 480"
+  },
+  {
+    "id": "doc_481",
+    "text": "Artificial intelligence is transforming the world. - Variation 481"
+  },
+  {
+    "id": "doc_482",
+    "text": "Machine learning models require data for training. - Variation 482"
+  },
+  {
+    "id": "doc_483",
+    "text": "Deep learning is a subset of machine learning. - Variation 483"
+  },
+  {
+    "id": "doc_484",
+    "text": "Natural language processing enables computers to understand text. - Variation 484"
+  },
+  {
+    "id": "doc_485",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 485"
+  },
+  {
+    "id": "doc_486",
+    "text": "Reinforcement learning learns from trial and error. - Variation 486"
+  },
+  {
+    "id": "doc_487",
+    "text": "Supervised learning uses labeled datasets. - Variation 487"
+  },
+  {
+    "id": "doc_488",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 488"
+  },
+  {
+    "id": "doc_489",
+    "text": "Python is a popular programming language for data science. - Variation 489"
+  },
+  {
+    "id": "doc_490",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 490"
+  },
+  {
+    "id": "doc_491",
+    "text": "Artificial intelligence is transforming the world. - Variation 491"
+  },
+  {
+    "id": "doc_492",
+    "text": "Machine learning models require data for training. - Variation 492"
+  },
+  {
+    "id": "doc_493",
+    "text": "Deep learning is a subset of machine learning. - Variation 493"
+  },
+  {
+    "id": "doc_494",
+    "text": "Natural language processing enables computers to understand text. - Variation 494"
+  },
+  {
+    "id": "doc_495",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 495"
+  },
+  {
+    "id": "doc_496",
+    "text": "Reinforcement learning learns from trial and error. - Variation 496"
+  },
+  {
+    "id": "doc_497",
+    "text": "Supervised learning uses labeled datasets. - Variation 497"
+  },
+  {
+    "id": "doc_498",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 498"
+  },
+  {
+    "id": "doc_499",
+    "text": "Python is a popular programming language for data science. - Variation 499"
+  },
+  {
+    "id": "doc_500",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 500"
+  },
+  {
+    "id": "doc_501",
+    "text": "Artificial intelligence is transforming the world. - Variation 501"
+  },
+  {
+    "id": "doc_502",
+    "text": "Machine learning models require data for training. - Variation 502"
+  },
+  {
+    "id": "doc_503",
+    "text": "Deep learning is a subset of machine learning. - Variation 503"
+  },
+  {
+    "id": "doc_504",
+    "text": "Natural language processing enables computers to understand text. - Variation 504"
+  },
+  {
+    "id": "doc_505",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 505"
+  },
+  {
+    "id": "doc_506",
+    "text": "Reinforcement learning learns from trial and error. - Variation 506"
+  },
+  {
+    "id": "doc_507",
+    "text": "Supervised learning uses labeled datasets. - Variation 507"
+  },
+  {
+    "id": "doc_508",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 508"
+  },
+  {
+    "id": "doc_509",
+    "text": "Python is a popular programming language for data science. - Variation 509"
+  },
+  {
+    "id": "doc_510",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 510"
+  },
+  {
+    "id": "doc_511",
+    "text": "Artificial intelligence is transforming the world. - Variation 511"
+  },
+  {
+    "id": "doc_512",
+    "text": "Machine learning models require data for training. - Variation 512"
+  },
+  {
+    "id": "doc_513",
+    "text": "Deep learning is a subset of machine learning. - Variation 513"
+  },
+  {
+    "id": "doc_514",
+    "text": "Natural language processing enables computers to understand text. - Variation 514"
+  },
+  {
+    "id": "doc_515",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 515"
+  },
+  {
+    "id": "doc_516",
+    "text": "Reinforcement learning learns from trial and error. - Variation 516"
+  },
+  {
+    "id": "doc_517",
+    "text": "Supervised learning uses labeled datasets. - Variation 517"
+  },
+  {
+    "id": "doc_518",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 518"
+  },
+  {
+    "id": "doc_519",
+    "text": "Python is a popular programming language for data science. - Variation 519"
+  },
+  {
+    "id": "doc_520",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 520"
+  },
+  {
+    "id": "doc_521",
+    "text": "Artificial intelligence is transforming the world. - Variation 521"
+  },
+  {
+    "id": "doc_522",
+    "text": "Machine learning models require data for training. - Variation 522"
+  },
+  {
+    "id": "doc_523",
+    "text": "Deep learning is a subset of machine learning. - Variation 523"
+  },
+  {
+    "id": "doc_524",
+    "text": "Natural language processing enables computers to understand text. - Variation 524"
+  },
+  {
+    "id": "doc_525",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 525"
+  },
+  {
+    "id": "doc_526",
+    "text": "Reinforcement learning learns from trial and error. - Variation 526"
+  },
+  {
+    "id": "doc_527",
+    "text": "Supervised learning uses labeled datasets. - Variation 527"
+  },
+  {
+    "id": "doc_528",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 528"
+  },
+  {
+    "id": "doc_529",
+    "text": "Python is a popular programming language for data science. - Variation 529"
+  },
+  {
+    "id": "doc_530",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 530"
+  },
+  {
+    "id": "doc_531",
+    "text": "Artificial intelligence is transforming the world. - Variation 531"
+  },
+  {
+    "id": "doc_532",
+    "text": "Machine learning models require data for training. - Variation 532"
+  },
+  {
+    "id": "doc_533",
+    "text": "Deep learning is a subset of machine learning. - Variation 533"
+  },
+  {
+    "id": "doc_534",
+    "text": "Natural language processing enables computers to understand text. - Variation 534"
+  },
+  {
+    "id": "doc_535",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 535"
+  },
+  {
+    "id": "doc_536",
+    "text": "Reinforcement learning learns from trial and error. - Variation 536"
+  },
+  {
+    "id": "doc_537",
+    "text": "Supervised learning uses labeled datasets. - Variation 537"
+  },
+  {
+    "id": "doc_538",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 538"
+  },
+  {
+    "id": "doc_539",
+    "text": "Python is a popular programming language for data science. - Variation 539"
+  },
+  {
+    "id": "doc_540",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 540"
+  },
+  {
+    "id": "doc_541",
+    "text": "Artificial intelligence is transforming the world. - Variation 541"
+  },
+  {
+    "id": "doc_542",
+    "text": "Machine learning models require data for training. - Variation 542"
+  },
+  {
+    "id": "doc_543",
+    "text": "Deep learning is a subset of machine learning. - Variation 543"
+  },
+  {
+    "id": "doc_544",
+    "text": "Natural language processing enables computers to understand text. - Variation 544"
+  },
+  {
+    "id": "doc_545",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 545"
+  },
+  {
+    "id": "doc_546",
+    "text": "Reinforcement learning learns from trial and error. - Variation 546"
+  },
+  {
+    "id": "doc_547",
+    "text": "Supervised learning uses labeled datasets. - Variation 547"
+  },
+  {
+    "id": "doc_548",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 548"
+  },
+  {
+    "id": "doc_549",
+    "text": "Python is a popular programming language for data science. - Variation 549"
+  },
+  {
+    "id": "doc_550",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 550"
+  },
+  {
+    "id": "doc_551",
+    "text": "Artificial intelligence is transforming the world. - Variation 551"
+  },
+  {
+    "id": "doc_552",
+    "text": "Machine learning models require data for training. - Variation 552"
+  },
+  {
+    "id": "doc_553",
+    "text": "Deep learning is a subset of machine learning. - Variation 553"
+  },
+  {
+    "id": "doc_554",
+    "text": "Natural language processing enables computers to understand text. - Variation 554"
+  },
+  {
+    "id": "doc_555",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 555"
+  },
+  {
+    "id": "doc_556",
+    "text": "Reinforcement learning learns from trial and error. - Variation 556"
+  },
+  {
+    "id": "doc_557",
+    "text": "Supervised learning uses labeled datasets. - Variation 557"
+  },
+  {
+    "id": "doc_558",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 558"
+  },
+  {
+    "id": "doc_559",
+    "text": "Python is a popular programming language for data science. - Variation 559"
+  },
+  {
+    "id": "doc_560",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 560"
+  },
+  {
+    "id": "doc_561",
+    "text": "Artificial intelligence is transforming the world. - Variation 561"
+  },
+  {
+    "id": "doc_562",
+    "text": "Machine learning models require data for training. - Variation 562"
+  },
+  {
+    "id": "doc_563",
+    "text": "Deep learning is a subset of machine learning. - Variation 563"
+  },
+  {
+    "id": "doc_564",
+    "text": "Natural language processing enables computers to understand text. - Variation 564"
+  },
+  {
+    "id": "doc_565",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 565"
+  },
+  {
+    "id": "doc_566",
+    "text": "Reinforcement learning learns from trial and error. - Variation 566"
+  },
+  {
+    "id": "doc_567",
+    "text": "Supervised learning uses labeled datasets. - Variation 567"
+  },
+  {
+    "id": "doc_568",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 568"
+  },
+  {
+    "id": "doc_569",
+    "text": "Python is a popular programming language for data science. - Variation 569"
+  },
+  {
+    "id": "doc_570",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 570"
+  },
+  {
+    "id": "doc_571",
+    "text": "Artificial intelligence is transforming the world. - Variation 571"
+  },
+  {
+    "id": "doc_572",
+    "text": "Machine learning models require data for training. - Variation 572"
+  },
+  {
+    "id": "doc_573",
+    "text": "Deep learning is a subset of machine learning. - Variation 573"
+  },
+  {
+    "id": "doc_574",
+    "text": "Natural language processing enables computers to understand text. - Variation 574"
+  },
+  {
+    "id": "doc_575",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 575"
+  },
+  {
+    "id": "doc_576",
+    "text": "Reinforcement learning learns from trial and error. - Variation 576"
+  },
+  {
+    "id": "doc_577",
+    "text": "Supervised learning uses labeled datasets. - Variation 577"
+  },
+  {
+    "id": "doc_578",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 578"
+  },
+  {
+    "id": "doc_579",
+    "text": "Python is a popular programming language for data science. - Variation 579"
+  },
+  {
+    "id": "doc_580",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 580"
+  },
+  {
+    "id": "doc_581",
+    "text": "Artificial intelligence is transforming the world. - Variation 581"
+  },
+  {
+    "id": "doc_582",
+    "text": "Machine learning models require data for training. - Variation 582"
+  },
+  {
+    "id": "doc_583",
+    "text": "Deep learning is a subset of machine learning. - Variation 583"
+  },
+  {
+    "id": "doc_584",
+    "text": "Natural language processing enables computers to understand text. - Variation 584"
+  },
+  {
+    "id": "doc_585",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 585"
+  },
+  {
+    "id": "doc_586",
+    "text": "Reinforcement learning learns from trial and error. - Variation 586"
+  },
+  {
+    "id": "doc_587",
+    "text": "Supervised learning uses labeled datasets. - Variation 587"
+  },
+  {
+    "id": "doc_588",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 588"
+  },
+  {
+    "id": "doc_589",
+    "text": "Python is a popular programming language for data science. - Variation 589"
+  },
+  {
+    "id": "doc_590",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 590"
+  },
+  {
+    "id": "doc_591",
+    "text": "Artificial intelligence is transforming the world. - Variation 591"
+  },
+  {
+    "id": "doc_592",
+    "text": "Machine learning models require data for training. - Variation 592"
+  },
+  {
+    "id": "doc_593",
+    "text": "Deep learning is a subset of machine learning. - Variation 593"
+  },
+  {
+    "id": "doc_594",
+    "text": "Natural language processing enables computers to understand text. - Variation 594"
+  },
+  {
+    "id": "doc_595",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 595"
+  },
+  {
+    "id": "doc_596",
+    "text": "Reinforcement learning learns from trial and error. - Variation 596"
+  },
+  {
+    "id": "doc_597",
+    "text": "Supervised learning uses labeled datasets. - Variation 597"
+  },
+  {
+    "id": "doc_598",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 598"
+  },
+  {
+    "id": "doc_599",
+    "text": "Python is a popular programming language for data science. - Variation 599"
+  },
+  {
+    "id": "doc_600",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 600"
+  },
+  {
+    "id": "doc_601",
+    "text": "Artificial intelligence is transforming the world. - Variation 601"
+  },
+  {
+    "id": "doc_602",
+    "text": "Machine learning models require data for training. - Variation 602"
+  },
+  {
+    "id": "doc_603",
+    "text": "Deep learning is a subset of machine learning. - Variation 603"
+  },
+  {
+    "id": "doc_604",
+    "text": "Natural language processing enables computers to understand text. - Variation 604"
+  },
+  {
+    "id": "doc_605",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 605"
+  },
+  {
+    "id": "doc_606",
+    "text": "Reinforcement learning learns from trial and error. - Variation 606"
+  },
+  {
+    "id": "doc_607",
+    "text": "Supervised learning uses labeled datasets. - Variation 607"
+  },
+  {
+    "id": "doc_608",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 608"
+  },
+  {
+    "id": "doc_609",
+    "text": "Python is a popular programming language for data science. - Variation 609"
+  },
+  {
+    "id": "doc_610",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 610"
+  },
+  {
+    "id": "doc_611",
+    "text": "Artificial intelligence is transforming the world. - Variation 611"
+  },
+  {
+    "id": "doc_612",
+    "text": "Machine learning models require data for training. - Variation 612"
+  },
+  {
+    "id": "doc_613",
+    "text": "Deep learning is a subset of machine learning. - Variation 613"
+  },
+  {
+    "id": "doc_614",
+    "text": "Natural language processing enables computers to understand text. - Variation 614"
+  },
+  {
+    "id": "doc_615",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 615"
+  },
+  {
+    "id": "doc_616",
+    "text": "Reinforcement learning learns from trial and error. - Variation 616"
+  },
+  {
+    "id": "doc_617",
+    "text": "Supervised learning uses labeled datasets. - Variation 617"
+  },
+  {
+    "id": "doc_618",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 618"
+  },
+  {
+    "id": "doc_619",
+    "text": "Python is a popular programming language for data science. - Variation 619"
+  },
+  {
+    "id": "doc_620",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 620"
+  },
+  {
+    "id": "doc_621",
+    "text": "Artificial intelligence is transforming the world. - Variation 621"
+  },
+  {
+    "id": "doc_622",
+    "text": "Machine learning models require data for training. - Variation 622"
+  },
+  {
+    "id": "doc_623",
+    "text": "Deep learning is a subset of machine learning. - Variation 623"
+  },
+  {
+    "id": "doc_624",
+    "text": "Natural language processing enables computers to understand text. - Variation 624"
+  },
+  {
+    "id": "doc_625",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 625"
+  },
+  {
+    "id": "doc_626",
+    "text": "Reinforcement learning learns from trial and error. - Variation 626"
+  },
+  {
+    "id": "doc_627",
+    "text": "Supervised learning uses labeled datasets. - Variation 627"
+  },
+  {
+    "id": "doc_628",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 628"
+  },
+  {
+    "id": "doc_629",
+    "text": "Python is a popular programming language for data science. - Variation 629"
+  },
+  {
+    "id": "doc_630",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 630"
+  },
+  {
+    "id": "doc_631",
+    "text": "Artificial intelligence is transforming the world. - Variation 631"
+  },
+  {
+    "id": "doc_632",
+    "text": "Machine learning models require data for training. - Variation 632"
+  },
+  {
+    "id": "doc_633",
+    "text": "Deep learning is a subset of machine learning. - Variation 633"
+  },
+  {
+    "id": "doc_634",
+    "text": "Natural language processing enables computers to understand text. - Variation 634"
+  },
+  {
+    "id": "doc_635",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 635"
+  },
+  {
+    "id": "doc_636",
+    "text": "Reinforcement learning learns from trial and error. - Variation 636"
+  },
+  {
+    "id": "doc_637",
+    "text": "Supervised learning uses labeled datasets. - Variation 637"
+  },
+  {
+    "id": "doc_638",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 638"
+  },
+  {
+    "id": "doc_639",
+    "text": "Python is a popular programming language for data science. - Variation 639"
+  },
+  {
+    "id": "doc_640",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 640"
+  },
+  {
+    "id": "doc_641",
+    "text": "Artificial intelligence is transforming the world. - Variation 641"
+  },
+  {
+    "id": "doc_642",
+    "text": "Machine learning models require data for training. - Variation 642"
+  },
+  {
+    "id": "doc_643",
+    "text": "Deep learning is a subset of machine learning. - Variation 643"
+  },
+  {
+    "id": "doc_644",
+    "text": "Natural language processing enables computers to understand text. - Variation 644"
+  },
+  {
+    "id": "doc_645",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 645"
+  },
+  {
+    "id": "doc_646",
+    "text": "Reinforcement learning learns from trial and error. - Variation 646"
+  },
+  {
+    "id": "doc_647",
+    "text": "Supervised learning uses labeled datasets. - Variation 647"
+  },
+  {
+    "id": "doc_648",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 648"
+  },
+  {
+    "id": "doc_649",
+    "text": "Python is a popular programming language for data science. - Variation 649"
+  },
+  {
+    "id": "doc_650",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 650"
+  },
+  {
+    "id": "doc_651",
+    "text": "Artificial intelligence is transforming the world. - Variation 651"
+  },
+  {
+    "id": "doc_652",
+    "text": "Machine learning models require data for training. - Variation 652"
+  },
+  {
+    "id": "doc_653",
+    "text": "Deep learning is a subset of machine learning. - Variation 653"
+  },
+  {
+    "id": "doc_654",
+    "text": "Natural language processing enables computers to understand text. - Variation 654"
+  },
+  {
+    "id": "doc_655",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 655"
+  },
+  {
+    "id": "doc_656",
+    "text": "Reinforcement learning learns from trial and error. - Variation 656"
+  },
+  {
+    "id": "doc_657",
+    "text": "Supervised learning uses labeled datasets. - Variation 657"
+  },
+  {
+    "id": "doc_658",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 658"
+  },
+  {
+    "id": "doc_659",
+    "text": "Python is a popular programming language for data science. - Variation 659"
+  },
+  {
+    "id": "doc_660",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 660"
+  },
+  {
+    "id": "doc_661",
+    "text": "Artificial intelligence is transforming the world. - Variation 661"
+  },
+  {
+    "id": "doc_662",
+    "text": "Machine learning models require data for training. - Variation 662"
+  },
+  {
+    "id": "doc_663",
+    "text": "Deep learning is a subset of machine learning. - Variation 663"
+  },
+  {
+    "id": "doc_664",
+    "text": "Natural language processing enables computers to understand text. - Variation 664"
+  },
+  {
+    "id": "doc_665",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 665"
+  },
+  {
+    "id": "doc_666",
+    "text": "Reinforcement learning learns from trial and error. - Variation 666"
+  },
+  {
+    "id": "doc_667",
+    "text": "Supervised learning uses labeled datasets. - Variation 667"
+  },
+  {
+    "id": "doc_668",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 668"
+  },
+  {
+    "id": "doc_669",
+    "text": "Python is a popular programming language for data science. - Variation 669"
+  },
+  {
+    "id": "doc_670",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 670"
+  },
+  {
+    "id": "doc_671",
+    "text": "Artificial intelligence is transforming the world. - Variation 671"
+  },
+  {
+    "id": "doc_672",
+    "text": "Machine learning models require data for training. - Variation 672"
+  },
+  {
+    "id": "doc_673",
+    "text": "Deep learning is a subset of machine learning. - Variation 673"
+  },
+  {
+    "id": "doc_674",
+    "text": "Natural language processing enables computers to understand text. - Variation 674"
+  },
+  {
+    "id": "doc_675",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 675"
+  },
+  {
+    "id": "doc_676",
+    "text": "Reinforcement learning learns from trial and error. - Variation 676"
+  },
+  {
+    "id": "doc_677",
+    "text": "Supervised learning uses labeled datasets. - Variation 677"
+  },
+  {
+    "id": "doc_678",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 678"
+  },
+  {
+    "id": "doc_679",
+    "text": "Python is a popular programming language for data science. - Variation 679"
+  },
+  {
+    "id": "doc_680",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 680"
+  },
+  {
+    "id": "doc_681",
+    "text": "Artificial intelligence is transforming the world. - Variation 681"
+  },
+  {
+    "id": "doc_682",
+    "text": "Machine learning models require data for training. - Variation 682"
+  },
+  {
+    "id": "doc_683",
+    "text": "Deep learning is a subset of machine learning. - Variation 683"
+  },
+  {
+    "id": "doc_684",
+    "text": "Natural language processing enables computers to understand text. - Variation 684"
+  },
+  {
+    "id": "doc_685",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 685"
+  },
+  {
+    "id": "doc_686",
+    "text": "Reinforcement learning learns from trial and error. - Variation 686"
+  },
+  {
+    "id": "doc_687",
+    "text": "Supervised learning uses labeled datasets. - Variation 687"
+  },
+  {
+    "id": "doc_688",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 688"
+  },
+  {
+    "id": "doc_689",
+    "text": "Python is a popular programming language for data science. - Variation 689"
+  },
+  {
+    "id": "doc_690",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 690"
+  },
+  {
+    "id": "doc_691",
+    "text": "Artificial intelligence is transforming the world. - Variation 691"
+  },
+  {
+    "id": "doc_692",
+    "text": "Machine learning models require data for training. - Variation 692"
+  },
+  {
+    "id": "doc_693",
+    "text": "Deep learning is a subset of machine learning. - Variation 693"
+  },
+  {
+    "id": "doc_694",
+    "text": "Natural language processing enables computers to understand text. - Variation 694"
+  },
+  {
+    "id": "doc_695",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 695"
+  },
+  {
+    "id": "doc_696",
+    "text": "Reinforcement learning learns from trial and error. - Variation 696"
+  },
+  {
+    "id": "doc_697",
+    "text": "Supervised learning uses labeled datasets. - Variation 697"
+  },
+  {
+    "id": "doc_698",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 698"
+  },
+  {
+    "id": "doc_699",
+    "text": "Python is a popular programming language for data science. - Variation 699"
+  },
+  {
+    "id": "doc_700",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 700"
+  },
+  {
+    "id": "doc_701",
+    "text": "Artificial intelligence is transforming the world. - Variation 701"
+  },
+  {
+    "id": "doc_702",
+    "text": "Machine learning models require data for training. - Variation 702"
+  },
+  {
+    "id": "doc_703",
+    "text": "Deep learning is a subset of machine learning. - Variation 703"
+  },
+  {
+    "id": "doc_704",
+    "text": "Natural language processing enables computers to understand text. - Variation 704"
+  },
+  {
+    "id": "doc_705",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 705"
+  },
+  {
+    "id": "doc_706",
+    "text": "Reinforcement learning learns from trial and error. - Variation 706"
+  },
+  {
+    "id": "doc_707",
+    "text": "Supervised learning uses labeled datasets. - Variation 707"
+  },
+  {
+    "id": "doc_708",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 708"
+  },
+  {
+    "id": "doc_709",
+    "text": "Python is a popular programming language for data science. - Variation 709"
+  },
+  {
+    "id": "doc_710",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 710"
+  },
+  {
+    "id": "doc_711",
+    "text": "Artificial intelligence is transforming the world. - Variation 711"
+  },
+  {
+    "id": "doc_712",
+    "text": "Machine learning models require data for training. - Variation 712"
+  },
+  {
+    "id": "doc_713",
+    "text": "Deep learning is a subset of machine learning. - Variation 713"
+  },
+  {
+    "id": "doc_714",
+    "text": "Natural language processing enables computers to understand text. - Variation 714"
+  },
+  {
+    "id": "doc_715",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 715"
+  },
+  {
+    "id": "doc_716",
+    "text": "Reinforcement learning learns from trial and error. - Variation 716"
+  },
+  {
+    "id": "doc_717",
+    "text": "Supervised learning uses labeled datasets. - Variation 717"
+  },
+  {
+    "id": "doc_718",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 718"
+  },
+  {
+    "id": "doc_719",
+    "text": "Python is a popular programming language for data science. - Variation 719"
+  },
+  {
+    "id": "doc_720",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 720"
+  },
+  {
+    "id": "doc_721",
+    "text": "Artificial intelligence is transforming the world. - Variation 721"
+  },
+  {
+    "id": "doc_722",
+    "text": "Machine learning models require data for training. - Variation 722"
+  },
+  {
+    "id": "doc_723",
+    "text": "Deep learning is a subset of machine learning. - Variation 723"
+  },
+  {
+    "id": "doc_724",
+    "text": "Natural language processing enables computers to understand text. - Variation 724"
+  },
+  {
+    "id": "doc_725",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 725"
+  },
+  {
+    "id": "doc_726",
+    "text": "Reinforcement learning learns from trial and error. - Variation 726"
+  },
+  {
+    "id": "doc_727",
+    "text": "Supervised learning uses labeled datasets. - Variation 727"
+  },
+  {
+    "id": "doc_728",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 728"
+  },
+  {
+    "id": "doc_729",
+    "text": "Python is a popular programming language for data science. - Variation 729"
+  },
+  {
+    "id": "doc_730",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 730"
+  },
+  {
+    "id": "doc_731",
+    "text": "Artificial intelligence is transforming the world. - Variation 731"
+  },
+  {
+    "id": "doc_732",
+    "text": "Machine learning models require data for training. - Variation 732"
+  },
+  {
+    "id": "doc_733",
+    "text": "Deep learning is a subset of machine learning. - Variation 733"
+  },
+  {
+    "id": "doc_734",
+    "text": "Natural language processing enables computers to understand text. - Variation 734"
+  },
+  {
+    "id": "doc_735",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 735"
+  },
+  {
+    "id": "doc_736",
+    "text": "Reinforcement learning learns from trial and error. - Variation 736"
+  },
+  {
+    "id": "doc_737",
+    "text": "Supervised learning uses labeled datasets. - Variation 737"
+  },
+  {
+    "id": "doc_738",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 738"
+  },
+  {
+    "id": "doc_739",
+    "text": "Python is a popular programming language for data science. - Variation 739"
+  },
+  {
+    "id": "doc_740",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 740"
+  },
+  {
+    "id": "doc_741",
+    "text": "Artificial intelligence is transforming the world. - Variation 741"
+  },
+  {
+    "id": "doc_742",
+    "text": "Machine learning models require data for training. - Variation 742"
+  },
+  {
+    "id": "doc_743",
+    "text": "Deep learning is a subset of machine learning. - Variation 743"
+  },
+  {
+    "id": "doc_744",
+    "text": "Natural language processing enables computers to understand text. - Variation 744"
+  },
+  {
+    "id": "doc_745",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 745"
+  },
+  {
+    "id": "doc_746",
+    "text": "Reinforcement learning learns from trial and error. - Variation 746"
+  },
+  {
+    "id": "doc_747",
+    "text": "Supervised learning uses labeled datasets. - Variation 747"
+  },
+  {
+    "id": "doc_748",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 748"
+  },
+  {
+    "id": "doc_749",
+    "text": "Python is a popular programming language for data science. - Variation 749"
+  },
+  {
+    "id": "doc_750",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 750"
+  },
+  {
+    "id": "doc_751",
+    "text": "Artificial intelligence is transforming the world. - Variation 751"
+  },
+  {
+    "id": "doc_752",
+    "text": "Machine learning models require data for training. - Variation 752"
+  },
+  {
+    "id": "doc_753",
+    "text": "Deep learning is a subset of machine learning. - Variation 753"
+  },
+  {
+    "id": "doc_754",
+    "text": "Natural language processing enables computers to understand text. - Variation 754"
+  },
+  {
+    "id": "doc_755",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 755"
+  },
+  {
+    "id": "doc_756",
+    "text": "Reinforcement learning learns from trial and error. - Variation 756"
+  },
+  {
+    "id": "doc_757",
+    "text": "Supervised learning uses labeled datasets. - Variation 757"
+  },
+  {
+    "id": "doc_758",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 758"
+  },
+  {
+    "id": "doc_759",
+    "text": "Python is a popular programming language for data science. - Variation 759"
+  },
+  {
+    "id": "doc_760",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 760"
+  },
+  {
+    "id": "doc_761",
+    "text": "Artificial intelligence is transforming the world. - Variation 761"
+  },
+  {
+    "id": "doc_762",
+    "text": "Machine learning models require data for training. - Variation 762"
+  },
+  {
+    "id": "doc_763",
+    "text": "Deep learning is a subset of machine learning. - Variation 763"
+  },
+  {
+    "id": "doc_764",
+    "text": "Natural language processing enables computers to understand text. - Variation 764"
+  },
+  {
+    "id": "doc_765",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 765"
+  },
+  {
+    "id": "doc_766",
+    "text": "Reinforcement learning learns from trial and error. - Variation 766"
+  },
+  {
+    "id": "doc_767",
+    "text": "Supervised learning uses labeled datasets. - Variation 767"
+  },
+  {
+    "id": "doc_768",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 768"
+  },
+  {
+    "id": "doc_769",
+    "text": "Python is a popular programming language for data science. - Variation 769"
+  },
+  {
+    "id": "doc_770",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 770"
+  },
+  {
+    "id": "doc_771",
+    "text": "Artificial intelligence is transforming the world. - Variation 771"
+  },
+  {
+    "id": "doc_772",
+    "text": "Machine learning models require data for training. - Variation 772"
+  },
+  {
+    "id": "doc_773",
+    "text": "Deep learning is a subset of machine learning. - Variation 773"
+  },
+  {
+    "id": "doc_774",
+    "text": "Natural language processing enables computers to understand text. - Variation 774"
+  },
+  {
+    "id": "doc_775",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 775"
+  },
+  {
+    "id": "doc_776",
+    "text": "Reinforcement learning learns from trial and error. - Variation 776"
+  },
+  {
+    "id": "doc_777",
+    "text": "Supervised learning uses labeled datasets. - Variation 777"
+  },
+  {
+    "id": "doc_778",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 778"
+  },
+  {
+    "id": "doc_779",
+    "text": "Python is a popular programming language for data science. - Variation 779"
+  },
+  {
+    "id": "doc_780",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 780"
+  },
+  {
+    "id": "doc_781",
+    "text": "Artificial intelligence is transforming the world. - Variation 781"
+  },
+  {
+    "id": "doc_782",
+    "text": "Machine learning models require data for training. - Variation 782"
+  },
+  {
+    "id": "doc_783",
+    "text": "Deep learning is a subset of machine learning. - Variation 783"
+  },
+  {
+    "id": "doc_784",
+    "text": "Natural language processing enables computers to understand text. - Variation 784"
+  },
+  {
+    "id": "doc_785",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 785"
+  },
+  {
+    "id": "doc_786",
+    "text": "Reinforcement learning learns from trial and error. - Variation 786"
+  },
+  {
+    "id": "doc_787",
+    "text": "Supervised learning uses labeled datasets. - Variation 787"
+  },
+  {
+    "id": "doc_788",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 788"
+  },
+  {
+    "id": "doc_789",
+    "text": "Python is a popular programming language for data science. - Variation 789"
+  },
+  {
+    "id": "doc_790",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 790"
+  },
+  {
+    "id": "doc_791",
+    "text": "Artificial intelligence is transforming the world. - Variation 791"
+  },
+  {
+    "id": "doc_792",
+    "text": "Machine learning models require data for training. - Variation 792"
+  },
+  {
+    "id": "doc_793",
+    "text": "Deep learning is a subset of machine learning. - Variation 793"
+  },
+  {
+    "id": "doc_794",
+    "text": "Natural language processing enables computers to understand text. - Variation 794"
+  },
+  {
+    "id": "doc_795",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 795"
+  },
+  {
+    "id": "doc_796",
+    "text": "Reinforcement learning learns from trial and error. - Variation 796"
+  },
+  {
+    "id": "doc_797",
+    "text": "Supervised learning uses labeled datasets. - Variation 797"
+  },
+  {
+    "id": "doc_798",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 798"
+  },
+  {
+    "id": "doc_799",
+    "text": "Python is a popular programming language for data science. - Variation 799"
+  },
+  {
+    "id": "doc_800",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 800"
+  },
+  {
+    "id": "doc_801",
+    "text": "Artificial intelligence is transforming the world. - Variation 801"
+  },
+  {
+    "id": "doc_802",
+    "text": "Machine learning models require data for training. - Variation 802"
+  },
+  {
+    "id": "doc_803",
+    "text": "Deep learning is a subset of machine learning. - Variation 803"
+  },
+  {
+    "id": "doc_804",
+    "text": "Natural language processing enables computers to understand text. - Variation 804"
+  },
+  {
+    "id": "doc_805",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 805"
+  },
+  {
+    "id": "doc_806",
+    "text": "Reinforcement learning learns from trial and error. - Variation 806"
+  },
+  {
+    "id": "doc_807",
+    "text": "Supervised learning uses labeled datasets. - Variation 807"
+  },
+  {
+    "id": "doc_808",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 808"
+  },
+  {
+    "id": "doc_809",
+    "text": "Python is a popular programming language for data science. - Variation 809"
+  },
+  {
+    "id": "doc_810",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 810"
+  },
+  {
+    "id": "doc_811",
+    "text": "Artificial intelligence is transforming the world. - Variation 811"
+  },
+  {
+    "id": "doc_812",
+    "text": "Machine learning models require data for training. - Variation 812"
+  },
+  {
+    "id": "doc_813",
+    "text": "Deep learning is a subset of machine learning. - Variation 813"
+  },
+  {
+    "id": "doc_814",
+    "text": "Natural language processing enables computers to understand text. - Variation 814"
+  },
+  {
+    "id": "doc_815",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 815"
+  },
+  {
+    "id": "doc_816",
+    "text": "Reinforcement learning learns from trial and error. - Variation 816"
+  },
+  {
+    "id": "doc_817",
+    "text": "Supervised learning uses labeled datasets. - Variation 817"
+  },
+  {
+    "id": "doc_818",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 818"
+  },
+  {
+    "id": "doc_819",
+    "text": "Python is a popular programming language for data science. - Variation 819"
+  },
+  {
+    "id": "doc_820",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 820"
+  },
+  {
+    "id": "doc_821",
+    "text": "Artificial intelligence is transforming the world. - Variation 821"
+  },
+  {
+    "id": "doc_822",
+    "text": "Machine learning models require data for training. - Variation 822"
+  },
+  {
+    "id": "doc_823",
+    "text": "Deep learning is a subset of machine learning. - Variation 823"
+  },
+  {
+    "id": "doc_824",
+    "text": "Natural language processing enables computers to understand text. - Variation 824"
+  },
+  {
+    "id": "doc_825",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 825"
+  },
+  {
+    "id": "doc_826",
+    "text": "Reinforcement learning learns from trial and error. - Variation 826"
+  },
+  {
+    "id": "doc_827",
+    "text": "Supervised learning uses labeled datasets. - Variation 827"
+  },
+  {
+    "id": "doc_828",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 828"
+  },
+  {
+    "id": "doc_829",
+    "text": "Python is a popular programming language for data science. - Variation 829"
+  },
+  {
+    "id": "doc_830",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 830"
+  },
+  {
+    "id": "doc_831",
+    "text": "Artificial intelligence is transforming the world. - Variation 831"
+  },
+  {
+    "id": "doc_832",
+    "text": "Machine learning models require data for training. - Variation 832"
+  },
+  {
+    "id": "doc_833",
+    "text": "Deep learning is a subset of machine learning. - Variation 833"
+  },
+  {
+    "id": "doc_834",
+    "text": "Natural language processing enables computers to understand text. - Variation 834"
+  },
+  {
+    "id": "doc_835",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 835"
+  },
+  {
+    "id": "doc_836",
+    "text": "Reinforcement learning learns from trial and error. - Variation 836"
+  },
+  {
+    "id": "doc_837",
+    "text": "Supervised learning uses labeled datasets. - Variation 837"
+  },
+  {
+    "id": "doc_838",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 838"
+  },
+  {
+    "id": "doc_839",
+    "text": "Python is a popular programming language for data science. - Variation 839"
+  },
+  {
+    "id": "doc_840",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 840"
+  },
+  {
+    "id": "doc_841",
+    "text": "Artificial intelligence is transforming the world. - Variation 841"
+  },
+  {
+    "id": "doc_842",
+    "text": "Machine learning models require data for training. - Variation 842"
+  },
+  {
+    "id": "doc_843",
+    "text": "Deep learning is a subset of machine learning. - Variation 843"
+  },
+  {
+    "id": "doc_844",
+    "text": "Natural language processing enables computers to understand text. - Variation 844"
+  },
+  {
+    "id": "doc_845",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 845"
+  },
+  {
+    "id": "doc_846",
+    "text": "Reinforcement learning learns from trial and error. - Variation 846"
+  },
+  {
+    "id": "doc_847",
+    "text": "Supervised learning uses labeled datasets. - Variation 847"
+  },
+  {
+    "id": "doc_848",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 848"
+  },
+  {
+    "id": "doc_849",
+    "text": "Python is a popular programming language for data science. - Variation 849"
+  },
+  {
+    "id": "doc_850",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 850"
+  },
+  {
+    "id": "doc_851",
+    "text": "Artificial intelligence is transforming the world. - Variation 851"
+  },
+  {
+    "id": "doc_852",
+    "text": "Machine learning models require data for training. - Variation 852"
+  },
+  {
+    "id": "doc_853",
+    "text": "Deep learning is a subset of machine learning. - Variation 853"
+  },
+  {
+    "id": "doc_854",
+    "text": "Natural language processing enables computers to understand text. - Variation 854"
+  },
+  {
+    "id": "doc_855",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 855"
+  },
+  {
+    "id": "doc_856",
+    "text": "Reinforcement learning learns from trial and error. - Variation 856"
+  },
+  {
+    "id": "doc_857",
+    "text": "Supervised learning uses labeled datasets. - Variation 857"
+  },
+  {
+    "id": "doc_858",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 858"
+  },
+  {
+    "id": "doc_859",
+    "text": "Python is a popular programming language for data science. - Variation 859"
+  },
+  {
+    "id": "doc_860",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 860"
+  },
+  {
+    "id": "doc_861",
+    "text": "Artificial intelligence is transforming the world. - Variation 861"
+  },
+  {
+    "id": "doc_862",
+    "text": "Machine learning models require data for training. - Variation 862"
+  },
+  {
+    "id": "doc_863",
+    "text": "Deep learning is a subset of machine learning. - Variation 863"
+  },
+  {
+    "id": "doc_864",
+    "text": "Natural language processing enables computers to understand text. - Variation 864"
+  },
+  {
+    "id": "doc_865",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 865"
+  },
+  {
+    "id": "doc_866",
+    "text": "Reinforcement learning learns from trial and error. - Variation 866"
+  },
+  {
+    "id": "doc_867",
+    "text": "Supervised learning uses labeled datasets. - Variation 867"
+  },
+  {
+    "id": "doc_868",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 868"
+  },
+  {
+    "id": "doc_869",
+    "text": "Python is a popular programming language for data science. - Variation 869"
+  },
+  {
+    "id": "doc_870",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 870"
+  },
+  {
+    "id": "doc_871",
+    "text": "Artificial intelligence is transforming the world. - Variation 871"
+  },
+  {
+    "id": "doc_872",
+    "text": "Machine learning models require data for training. - Variation 872"
+  },
+  {
+    "id": "doc_873",
+    "text": "Deep learning is a subset of machine learning. - Variation 873"
+  },
+  {
+    "id": "doc_874",
+    "text": "Natural language processing enables computers to understand text. - Variation 874"
+  },
+  {
+    "id": "doc_875",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 875"
+  },
+  {
+    "id": "doc_876",
+    "text": "Reinforcement learning learns from trial and error. - Variation 876"
+  },
+  {
+    "id": "doc_877",
+    "text": "Supervised learning uses labeled datasets. - Variation 877"
+  },
+  {
+    "id": "doc_878",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 878"
+  },
+  {
+    "id": "doc_879",
+    "text": "Python is a popular programming language for data science. - Variation 879"
+  },
+  {
+    "id": "doc_880",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 880"
+  },
+  {
+    "id": "doc_881",
+    "text": "Artificial intelligence is transforming the world. - Variation 881"
+  },
+  {
+    "id": "doc_882",
+    "text": "Machine learning models require data for training. - Variation 882"
+  },
+  {
+    "id": "doc_883",
+    "text": "Deep learning is a subset of machine learning. - Variation 883"
+  },
+  {
+    "id": "doc_884",
+    "text": "Natural language processing enables computers to understand text. - Variation 884"
+  },
+  {
+    "id": "doc_885",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 885"
+  },
+  {
+    "id": "doc_886",
+    "text": "Reinforcement learning learns from trial and error. - Variation 886"
+  },
+  {
+    "id": "doc_887",
+    "text": "Supervised learning uses labeled datasets. - Variation 887"
+  },
+  {
+    "id": "doc_888",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 888"
+  },
+  {
+    "id": "doc_889",
+    "text": "Python is a popular programming language for data science. - Variation 889"
+  },
+  {
+    "id": "doc_890",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 890"
+  },
+  {
+    "id": "doc_891",
+    "text": "Artificial intelligence is transforming the world. - Variation 891"
+  },
+  {
+    "id": "doc_892",
+    "text": "Machine learning models require data for training. - Variation 892"
+  },
+  {
+    "id": "doc_893",
+    "text": "Deep learning is a subset of machine learning. - Variation 893"
+  },
+  {
+    "id": "doc_894",
+    "text": "Natural language processing enables computers to understand text. - Variation 894"
+  },
+  {
+    "id": "doc_895",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 895"
+  },
+  {
+    "id": "doc_896",
+    "text": "Reinforcement learning learns from trial and error. - Variation 896"
+  },
+  {
+    "id": "doc_897",
+    "text": "Supervised learning uses labeled datasets. - Variation 897"
+  },
+  {
+    "id": "doc_898",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 898"
+  },
+  {
+    "id": "doc_899",
+    "text": "Python is a popular programming language for data science. - Variation 899"
+  },
+  {
+    "id": "doc_900",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 900"
+  },
+  {
+    "id": "doc_901",
+    "text": "Artificial intelligence is transforming the world. - Variation 901"
+  },
+  {
+    "id": "doc_902",
+    "text": "Machine learning models require data for training. - Variation 902"
+  },
+  {
+    "id": "doc_903",
+    "text": "Deep learning is a subset of machine learning. - Variation 903"
+  },
+  {
+    "id": "doc_904",
+    "text": "Natural language processing enables computers to understand text. - Variation 904"
+  },
+  {
+    "id": "doc_905",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 905"
+  },
+  {
+    "id": "doc_906",
+    "text": "Reinforcement learning learns from trial and error. - Variation 906"
+  },
+  {
+    "id": "doc_907",
+    "text": "Supervised learning uses labeled datasets. - Variation 907"
+  },
+  {
+    "id": "doc_908",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 908"
+  },
+  {
+    "id": "doc_909",
+    "text": "Python is a popular programming language for data science. - Variation 909"
+  },
+  {
+    "id": "doc_910",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 910"
+  },
+  {
+    "id": "doc_911",
+    "text": "Artificial intelligence is transforming the world. - Variation 911"
+  },
+  {
+    "id": "doc_912",
+    "text": "Machine learning models require data for training. - Variation 912"
+  },
+  {
+    "id": "doc_913",
+    "text": "Deep learning is a subset of machine learning. - Variation 913"
+  },
+  {
+    "id": "doc_914",
+    "text": "Natural language processing enables computers to understand text. - Variation 914"
+  },
+  {
+    "id": "doc_915",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 915"
+  },
+  {
+    "id": "doc_916",
+    "text": "Reinforcement learning learns from trial and error. - Variation 916"
+  },
+  {
+    "id": "doc_917",
+    "text": "Supervised learning uses labeled datasets. - Variation 917"
+  },
+  {
+    "id": "doc_918",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 918"
+  },
+  {
+    "id": "doc_919",
+    "text": "Python is a popular programming language for data science. - Variation 919"
+  },
+  {
+    "id": "doc_920",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 920"
+  },
+  {
+    "id": "doc_921",
+    "text": "Artificial intelligence is transforming the world. - Variation 921"
+  },
+  {
+    "id": "doc_922",
+    "text": "Machine learning models require data for training. - Variation 922"
+  },
+  {
+    "id": "doc_923",
+    "text": "Deep learning is a subset of machine learning. - Variation 923"
+  },
+  {
+    "id": "doc_924",
+    "text": "Natural language processing enables computers to understand text. - Variation 924"
+  },
+  {
+    "id": "doc_925",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 925"
+  },
+  {
+    "id": "doc_926",
+    "text": "Reinforcement learning learns from trial and error. - Variation 926"
+  },
+  {
+    "id": "doc_927",
+    "text": "Supervised learning uses labeled datasets. - Variation 927"
+  },
+  {
+    "id": "doc_928",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 928"
+  },
+  {
+    "id": "doc_929",
+    "text": "Python is a popular programming language for data science. - Variation 929"
+  },
+  {
+    "id": "doc_930",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 930"
+  },
+  {
+    "id": "doc_931",
+    "text": "Artificial intelligence is transforming the world. - Variation 931"
+  },
+  {
+    "id": "doc_932",
+    "text": "Machine learning models require data for training. - Variation 932"
+  },
+  {
+    "id": "doc_933",
+    "text": "Deep learning is a subset of machine learning. - Variation 933"
+  },
+  {
+    "id": "doc_934",
+    "text": "Natural language processing enables computers to understand text. - Variation 934"
+  },
+  {
+    "id": "doc_935",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 935"
+  },
+  {
+    "id": "doc_936",
+    "text": "Reinforcement learning learns from trial and error. - Variation 936"
+  },
+  {
+    "id": "doc_937",
+    "text": "Supervised learning uses labeled datasets. - Variation 937"
+  },
+  {
+    "id": "doc_938",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 938"
+  },
+  {
+    "id": "doc_939",
+    "text": "Python is a popular programming language for data science. - Variation 939"
+  },
+  {
+    "id": "doc_940",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 940"
+  },
+  {
+    "id": "doc_941",
+    "text": "Artificial intelligence is transforming the world. - Variation 941"
+  },
+  {
+    "id": "doc_942",
+    "text": "Machine learning models require data for training. - Variation 942"
+  },
+  {
+    "id": "doc_943",
+    "text": "Deep learning is a subset of machine learning. - Variation 943"
+  },
+  {
+    "id": "doc_944",
+    "text": "Natural language processing enables computers to understand text. - Variation 944"
+  },
+  {
+    "id": "doc_945",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 945"
+  },
+  {
+    "id": "doc_946",
+    "text": "Reinforcement learning learns from trial and error. - Variation 946"
+  },
+  {
+    "id": "doc_947",
+    "text": "Supervised learning uses labeled datasets. - Variation 947"
+  },
+  {
+    "id": "doc_948",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 948"
+  },
+  {
+    "id": "doc_949",
+    "text": "Python is a popular programming language for data science. - Variation 949"
+  },
+  {
+    "id": "doc_950",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 950"
+  },
+  {
+    "id": "doc_951",
+    "text": "Artificial intelligence is transforming the world. - Variation 951"
+  },
+  {
+    "id": "doc_952",
+    "text": "Machine learning models require data for training. - Variation 952"
+  },
+  {
+    "id": "doc_953",
+    "text": "Deep learning is a subset of machine learning. - Variation 953"
+  },
+  {
+    "id": "doc_954",
+    "text": "Natural language processing enables computers to understand text. - Variation 954"
+  },
+  {
+    "id": "doc_955",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 955"
+  },
+  {
+    "id": "doc_956",
+    "text": "Reinforcement learning learns from trial and error. - Variation 956"
+  },
+  {
+    "id": "doc_957",
+    "text": "Supervised learning uses labeled datasets. - Variation 957"
+  },
+  {
+    "id": "doc_958",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 958"
+  },
+  {
+    "id": "doc_959",
+    "text": "Python is a popular programming language for data science. - Variation 959"
+  },
+  {
+    "id": "doc_960",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 960"
+  },
+  {
+    "id": "doc_961",
+    "text": "Artificial intelligence is transforming the world. - Variation 961"
+  },
+  {
+    "id": "doc_962",
+    "text": "Machine learning models require data for training. - Variation 962"
+  },
+  {
+    "id": "doc_963",
+    "text": "Deep learning is a subset of machine learning. - Variation 963"
+  },
+  {
+    "id": "doc_964",
+    "text": "Natural language processing enables computers to understand text. - Variation 964"
+  },
+  {
+    "id": "doc_965",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 965"
+  },
+  {
+    "id": "doc_966",
+    "text": "Reinforcement learning learns from trial and error. - Variation 966"
+  },
+  {
+    "id": "doc_967",
+    "text": "Supervised learning uses labeled datasets. - Variation 967"
+  },
+  {
+    "id": "doc_968",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 968"
+  },
+  {
+    "id": "doc_969",
+    "text": "Python is a popular programming language for data science. - Variation 969"
+  },
+  {
+    "id": "doc_970",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 970"
+  },
+  {
+    "id": "doc_971",
+    "text": "Artificial intelligence is transforming the world. - Variation 971"
+  },
+  {
+    "id": "doc_972",
+    "text": "Machine learning models require data for training. - Variation 972"
+  },
+  {
+    "id": "doc_973",
+    "text": "Deep learning is a subset of machine learning. - Variation 973"
+  },
+  {
+    "id": "doc_974",
+    "text": "Natural language processing enables computers to understand text. - Variation 974"
+  },
+  {
+    "id": "doc_975",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 975"
+  },
+  {
+    "id": "doc_976",
+    "text": "Reinforcement learning learns from trial and error. - Variation 976"
+  },
+  {
+    "id": "doc_977",
+    "text": "Supervised learning uses labeled datasets. - Variation 977"
+  },
+  {
+    "id": "doc_978",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 978"
+  },
+  {
+    "id": "doc_979",
+    "text": "Python is a popular programming language for data science. - Variation 979"
+  },
+  {
+    "id": "doc_980",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 980"
+  },
+  {
+    "id": "doc_981",
+    "text": "Artificial intelligence is transforming the world. - Variation 981"
+  },
+  {
+    "id": "doc_982",
+    "text": "Machine learning models require data for training. - Variation 982"
+  },
+  {
+    "id": "doc_983",
+    "text": "Deep learning is a subset of machine learning. - Variation 983"
+  },
+  {
+    "id": "doc_984",
+    "text": "Natural language processing enables computers to understand text. - Variation 984"
+  },
+  {
+    "id": "doc_985",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 985"
+  },
+  {
+    "id": "doc_986",
+    "text": "Reinforcement learning learns from trial and error. - Variation 986"
+  },
+  {
+    "id": "doc_987",
+    "text": "Supervised learning uses labeled datasets. - Variation 987"
+  },
+  {
+    "id": "doc_988",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 988"
+  },
+  {
+    "id": "doc_989",
+    "text": "Python is a popular programming language for data science. - Variation 989"
+  },
+  {
+    "id": "doc_990",
+    "text": "The quick brown fox jumps over the lazy dog. - Variation 990"
+  },
+  {
+    "id": "doc_991",
+    "text": "Artificial intelligence is transforming the world. - Variation 991"
+  },
+  {
+    "id": "doc_992",
+    "text": "Machine learning models require data for training. - Variation 992"
+  },
+  {
+    "id": "doc_993",
+    "text": "Deep learning is a subset of machine learning. - Variation 993"
+  },
+  {
+    "id": "doc_994",
+    "text": "Natural language processing enables computers to understand text. - Variation 994"
+  },
+  {
+    "id": "doc_995",
+    "text": "Computer vision allows machines to see and interpret images. - Variation 995"
+  },
+  {
+    "id": "doc_996",
+    "text": "Reinforcement learning learns from trial and error. - Variation 996"
+  },
+  {
+    "id": "doc_997",
+    "text": "Supervised learning uses labeled datasets. - Variation 997"
+  },
+  {
+    "id": "doc_998",
+    "text": "Unsupervised learning finds patterns in unlabeled data. - Variation 998"
+  },
+  {
+    "id": "doc_999",
+    "text": "Python is a popular programming language for data science. - Variation 999"
+  }
+]

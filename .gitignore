@@ -1,0 +1,19 @@
+# Python environment and cache
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Intelligence Models (Large files)
+models/
+sentence_transformer/
+
+# Environment secrets
+.env
+
+# Data and Indices (Included as requested)
+# data/ is NOT ignored as documents.json and faiss_index.bin are required artifacts.
+
+# OS and temporary files
+.DS_Store
+Thumbs.db
