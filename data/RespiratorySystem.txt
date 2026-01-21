@@ -1,1 +1,0 @@
-This document provides an overview of RespiratorySystem and explains fundamental concepts related to the topic.

@@ -1,1 +1,0 @@
-Database Management Systems store, manage, and retrieve data efficiently. They support queries, transactions, and security for structured information.

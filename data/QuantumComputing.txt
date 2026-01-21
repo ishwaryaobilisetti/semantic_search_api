@@ -1,1 +1,0 @@
-Quantum computing uses quantum bits (qubits) that can exist in multiple states simultaneously. It promises massive computational power beyond classical computers.

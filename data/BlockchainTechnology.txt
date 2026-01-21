@@ -1,1 +1,0 @@
-Blockchain is a decentralized digital ledger where transactions are recorded across multiple computers. It ensures transparency, immutability, and security.

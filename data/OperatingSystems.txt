@@ -1,1 +1,0 @@
-An operating system manages hardware and software resources. It handles process scheduling, memory management, file systems, and device control.
