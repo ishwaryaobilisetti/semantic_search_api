@@ -42,6 +42,29 @@ Invoke-RestMethod -Uri "http://localhost:8000/search" -Method Post -ContentType 
 
 ---
 
+## 🛠️ Local Installation (Without Docker)
+
+If you prefer to run the API directly on your machine:
+
+### 1. Environment Setup
+```bash
+python -m venv venv
+source venv/bin/activate  # Windows: .\venv\Scripts\activate
+pip install -r requirements.txt
+```
+
+### 2. Data Initialization
+```bash
+python scripts/generate_embeddings.py
+```
+
+### 3. Start the API
+```bash
+uvicorn app.main:app --reload
+```
+
+---
+
 ## 🏗️ Architecture & Technical Choices
 
 ### Core Stack
